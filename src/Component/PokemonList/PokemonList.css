@@ -1,5 +1,5 @@
 .pokemon-list-wrapper{
-    border: 2px solid;
+    /* border: 2px solid; */
     margin: 2rem;
      display: flex;
      flex-direction: column;
